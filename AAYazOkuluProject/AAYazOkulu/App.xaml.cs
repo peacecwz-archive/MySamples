@@ -24,8 +24,8 @@ namespace AAYazOkulu
     sealed partial class App : Application
     {
         public static MobileServiceClient MobileService = new MobileServiceClient(
-            "Mobile Services Link",
-            "Azure Mobile Services Key"
+            "https://aayazokulu.azure-mobile.net/",
+            "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
         );
 
         /// <summary>

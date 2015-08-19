@@ -8,10 +8,21 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Button Click="Button_Click" Height="75" Width="75" Background="Transparent" BorderBrush="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button.Content>
-                <Path HorizontalAlignment="Center" VerticalAlignment="Center" Canvas.Left="19.0001" Canvas.Top="19.0001" Stretch="Fill" Fill="#0e1f5b" Data="F1 M 57.0001,25.3338C 57.0001,22.0059 53.9939,19.0001 50.6668,19.0001L 25.3343,19.0001C 22.0047,19.0001 19.0001,22.0059 19.0001,25.3338L 19.0001,50.6663C 19.0001,53.9943 22.0047,57.0001 25.3343,57.0001L 38,57L 38,42.9999L 33,42.9999L 33.0001,36.9998L 38.0001,36.9998L 38.0001,33.8437C 38.0001,29.5882 41.1963,25.7556 45.1272,25.7556L 50.2446,25.7556L 50.2446,32.089L 45.1272,32.089C 44.5657,32.089 44.0001,32.7307 44.0001,33.75L 44.0001,36.9998L 50.5001,36.9997L 50,42.9999L 44,42.9999L 44,57L 50.6668,57.0001C 53.9939,57.0001 57.0001,53.9943 57.0001,50.6663L 57.0001,25.3338 Z "/>
-            </Button.Content>
-        </Button>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="lblDurum" AutomationProperties.Name="Durum: Giriş Yapılması" HorizontalAlignment="Center" Text="Durum: Giriş Yapılması"/>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnFacebook" Click="Button_Click" AutomationProperties.Name="Facebook ile Giriş Yap" Height="75" Width="75" Background="Transparent" BorderBrush="Transparent">
+                    <Button.Content>
+                        <Path HorizontalAlignment="Center" VerticalAlignment="Center"  Stretch="Fill" Fill="#0e1f5b" Data="F1 M 57.0001,25.3338C 57.0001,22.0059 53.9939,19.0001 50.6668,19.0001L 25.3343,19.0001C 22.0047,19.0001 19.0001,22.0059 19.0001,25.3338L 19.0001,50.6663C 19.0001,53.9943 22.0047,57.0001 25.3343,57.0001L 38,57L 38,42.9999L 33,42.9999L 33.0001,36.9998L 38.0001,36.9998L 38.0001,33.8437C 38.0001,29.5882 41.1963,25.7556 45.1272,25.7556L 50.2446,25.7556L 50.2446,32.089L 45.1272,32.089C 44.5657,32.089 44.0001,32.7307 44.0001,33.75L 44.0001,36.9998L 50.5001,36.9997L 50,42.9999L 44,42.9999L 44,57L 50.6668,57.0001C 53.9939,57.0001 57.0001,53.9943 57.0001,50.6663L 57.0001,25.3338 Z "/>
+                    </Button.Content>
+                </Button>
+                <Button x:Name="btnTwitter" Click="Twitter_Click" AutomationProperties.Name="Twitter ile Giriş Yap" Height="75" Width="75" Background="Transparent" BorderBrush="Transparent">
+                    <Button.Content>
+                        <Path Width="40.3295" Height="32.775" Stretch="Fill" Fill="LightBlue" Data="F1 M 59.7481,27.0756C 58.2644,27.7337 56.6696,28.1784 54.9961,28.3784C 56.704,27.3544 58.0162,25.7329 58.634,23.8008C 57.0352,24.749 55.2645,25.4376 53.3797,25.8086C 51.8705,24.2005 49.7202,23.1958 47.3403,23.1958C 42.771,23.1958 39.0661,26.9003 39.0661,31.4697C 39.0661,32.1181 39.1393,32.7497 39.2804,33.3553C 32.4039,33.0102 26.3071,29.7162 22.2263,24.7102C 21.514,25.9322 21.106,27.3535 21.106,28.8699C 21.106,31.7405 22.5667,34.2731 24.7869,35.7569C 23.4307,35.7138 22.1547,35.3416 21.0392,34.7219C 21.0385,34.7565 21.0385,34.791 21.0385,34.826C 21.0385,38.8348 23.8906,42.1789 27.6756,42.9392C 26.9814,43.1282 26.2504,43.2294 25.4958,43.2294C 24.9626,43.2294 24.4443,43.1775 23.939,43.081C 24.992,46.368 28.0476,48.7603 31.6683,48.8269C 28.8365,51.0462 25.2689,52.369 21.3923,52.369C 20.7245,52.369 20.0659,52.3297 19.4186,52.2533C 23.0802,54.6008 27.4295,55.9708 32.102,55.9708C 47.321,55.9708 55.6436,43.363 55.6436,32.4291C 55.6436,32.0704 55.6353,31.7136 55.6194,31.3586C 57.2362,30.192 58.6389,28.7348 59.7481,27.0756 Z "/>
+                    </Button.Content>
+                </Button>
+            </StackPanel>
+            <Button x:Name="btnCikis" Click="Cikis_Click" Content="Çıkış Yap" AutomationProperties.Name="Çıkış Yap" HorizontalAlignment="Center"/>
+        </StackPanel>
     </Grid>
 </Page>

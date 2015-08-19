@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-97D1VKB</Machine>
+    <WindowsUser>baris</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>e2b96a7f-ab7d-48e6-a1dd-b6bc8095c17f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0F9D4EDD8218C53BA9E8107BA8DEB5F245DA8318B4F67AD82D707CEBB7EE8093</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e2b96a7f-ab7d-48e6-a1dd-b6bc8095c17f_1.0.0.0_x86__6f1gxpyvfzbht</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e2b96a7f-ab7d-48e6-a1dd-b6bc8095c17f_6f1gxpyvfzbht!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e2b96a7f-ab7d-48e6-a1dd-b6bc8095c17f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=baris</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-18T23:36:06.099</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\AAYazOkulu.exe">
+      <PackagePath>AAYazOkulu.exe</PackagePath>
+      <Modified>2015-08-18T23:36:06.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\AAYazOkulu.xr.xml">
+      <PackagePath>AAYazOkulu.xr.xml</PackagePath>
+      <Modified>2015-08-18T23:34:55.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2015-08-11T20:39:33.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T19:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-06-04T19:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T19:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T19:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-06-04T19:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2015-06-04T19:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T19:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-08-02T23:39:59.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\entrypoint\AAYazOkulu.exe">
+      <PackagePath>entrypoint\AAYazOkulu.exe</PackagePath>
+      <Modified>2015-08-18T23:36:03.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+      <Modified>2015-08-11T21:25:02.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
+      <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
+      <Modified>2015-08-02T23:39:15.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
+      <Modified>2015-08-02T23:39:16.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+      <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
+      <Modified>2015-08-02T23:39:16.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2015-08-02T23:39:33.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2015-08-02T23:39:33.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2015-08-02T23:39:22.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+      <Modified>2015-08-10T18:13:51.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+      <Modified>2015-08-10T18:13:52.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-08-10T18:13:52.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-08-11T20:39:02.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-18T23:34:56.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2015-08-02T23:39:33.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2015-08-02T23:39:35.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2015-08-02T23:39:34.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2015-08-02T23:39:35.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2015-08-02T23:39:54.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2015-08-02T23:39:36.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2015-08-02T23:39:24.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2015-08-02T23:39:35.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2015-08-02T23:39:22.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2015-08-02T23:39:22.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2015-08-02T23:39:22.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2015-08-02T23:39:36.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2015-08-02T23:39:23.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2015-08-02T23:39:36.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2015-08-02T23:39:37.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2015-08-02T23:39:38.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2015-08-02T23:39:37.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2015-08-02T23:39:37.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2015-08-02T23:39:37.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2015-08-02T23:39:39.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2015-08-02T23:39:37.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2015-08-02T23:39:38.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2015-08-02T23:39:38.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2015-08-02T23:39:38.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2015-08-02T23:39:22.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2015-08-02T23:39:40.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2015-08-02T23:39:40.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2015-08-02T23:39:40.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2015-08-02T23:39:41.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2015-08-02T23:39:42.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2015-08-02T23:39:42.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-08-10T18:13:52.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-08-10T18:13:52.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2015-08-02T23:39:24.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2015-08-02T23:39:42.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2015-08-02T23:39:42.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2015-08-02T23:39:42.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2015-08-02T23:39:43.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2015-08-02T23:39:30.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2015-08-02T23:39:35.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2015-08-02T23:39:28.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2015-08-02T23:39:22.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2015-08-02T23:39:43.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2015-08-02T23:39:43.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2015-08-02T23:40:00.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2015-08-02T23:40:00.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2015-08-02T23:40:00.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2015-08-02T23:39:43.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2015-08-02T23:39:43.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2015-08-02T23:39:44.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2015-08-02T23:39:44.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2015-08-02T23:39:44.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2015-08-02T23:39:46.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2015-08-02T23:39:45.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2015-08-02T23:39:46.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2015-08-02T23:39:46.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2015-08-02T23:39:46.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2015-08-02T23:39:25.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2015-08-02T23:39:28.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-08-02T23:39:30.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2015-08-02T23:39:30.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2015-08-02T23:39:46.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2015-08-02T23:39:47.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2015-08-02T23:39:26.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2015-08-02T23:39:31.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2015-08-02T23:39:31.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2015-08-02T23:39:31.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2015-08-02T23:39:32.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2015-08-02T23:39:32.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2015-08-02T23:39:26.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2015-08-02T23:39:33.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2015-08-02T23:39:46.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2015-08-02T23:39:48.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2015-08-02T23:39:48.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2015-08-02T23:39:48.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2015-08-02T23:39:22.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2015-08-02T23:39:49.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-08-02T23:39:49.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2015-08-02T23:39:50.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2015-08-02T23:39:49.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2015-08-02T23:39:26.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2015-08-02T23:39:27.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2015-08-02T23:39:27.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2015-08-02T23:39:54.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2015-08-02T23:39:27.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2015-08-02T23:39:54.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2015-08-02T23:39:23.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2015-08-02T23:39:33.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\baris\Documents\Visual Studio 2015\Projects\MySamples\AAYazOkulu\MySamples\AAYazOkuluProject\AAYazOkulu\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-08-02T20:29:32.618</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
