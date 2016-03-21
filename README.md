@@ -1,3 +1,3 @@
-# MySamples
+# Project Samples
 
-Blogumdaki yazılarda oluşturduğum örnek projeler
+Blogumdaki teknik yazılar için kodlanmış projelerin örnekleri burada mevcuttur.
